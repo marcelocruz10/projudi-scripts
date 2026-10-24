@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Revisão em Sequência - Projudi
 // @namespace    tjam.projudi.revisao
-// @version      2.4.1
+// @version      2.4.2
 // @description  Revisão de minutas pré-analisadas em sequência, conferência das conclusões com assinatura pendente e comparação do texto de publicação com a minuta (decisões e sentenças).
 // @author       Marcelo Cruz de Oliveira
 // @match        https://projudi.tjam.jus.br/projudi/*
-// @updateURL    https://raw.githubusercontent.com/marcelocruz10/projudi-scripts/main/revisao-sequencia-minutas.user.js
-// @downloadURL  https://raw.githubusercontent.com/marcelocruz10/projudi-scripts/main/revisao-sequencia-minutas.user.js
+// @updateURL    https://gist.githubusercontent.com/marcelocruz10/6aa31b6c2811a90a585d6989a709dcaf/raw/revisao-sequencia-minutas.user.js
+// @downloadURL  https://gist.githubusercontent.com/marcelocruz10/6aa31b6c2811a90a585d6989a709dcaf/raw/revisao-sequencia-minutas.user.js
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
@@ -69,6 +69,8 @@
     - Parte dispositiva: o fim já não depende do nome de um juiz em particular. Encerra na linha de
       local e data de qualquer comarca ("Parintins/AM, 23 de outubro de 2026"), no cargo (Juiz ou
       Juíza de Direito, com ou sem acento) e no nome que vem logo antes do cargo.
+  2.4.2
+    - Atualização passa a vir de um endereço não listado (Gist secreto); nada muda no uso.
 */
 
 (function () {

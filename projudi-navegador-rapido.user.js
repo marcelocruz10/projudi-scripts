@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Painel de Navegação - Projudi
 // @namespace    tjam.projudi.navegador
-// @version      1.15.1
+// @version      1.15.2
 // @description  Acesso direto às unidades e filas do Projudi: busca, árvore, quadro por unidade e configurações.
 // @author       Marcelo Cruz de Oliveira
 // @match        https://projudi.tjam.jus.br/projudi/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/marcelocruz10/projudi-scripts/main/projudi-navegador-rapido.user.js
-// @downloadURL  https://raw.githubusercontent.com/marcelocruz10/projudi-scripts/main/projudi-navegador-rapido.user.js
+// @updateURL    https://gist.githubusercontent.com/marcelocruz10/6aa31b6c2811a90a585d6989a709dcaf/raw/projudi-navegador-rapido.user.js
+// @downloadURL  https://gist.githubusercontent.com/marcelocruz10/6aa31b6c2811a90a585d6989a709dcaf/raw/projudi-navegador-rapido.user.js
 // @run-at       document-idle
 // ==/UserScript==
 

@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Painel de Agrupadores e Localizadores - Projudi
 // @namespace    tjam.projudi.agrupadores
-// @version      1.8.3
+// @version      1.8.4
 // @description  Agrupadores e localizadores da unidade em árvore, com os processos de cada um no gabinete (conclusos) e na secretaria, busca por sentido e abertura da lista no Projudi.
 // @author       Marcelo Cruz de Oliveira
 // @match        https://projudi.tjam.jus.br/projudi/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/marcelocruz10/projudi-scripts/main/painel-agrupadores-localizadores.user.js
-// @downloadURL  https://raw.githubusercontent.com/marcelocruz10/projudi-scripts/main/painel-agrupadores-localizadores.user.js
+// @updateURL    https://gist.githubusercontent.com/marcelocruz10/6aa31b6c2811a90a585d6989a709dcaf/raw/painel-agrupadores-localizadores.user.js
+// @downloadURL  https://gist.githubusercontent.com/marcelocruz10/6aa31b6c2811a90a585d6989a709dcaf/raw/painel-agrupadores-localizadores.user.js
 // @run-at       document-idle
 // ==/UserScript==
 
